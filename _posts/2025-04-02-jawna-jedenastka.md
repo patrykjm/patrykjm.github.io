@@ -1,4 +1,4 @@
-ów---
+---
 layout: default
 title: "Jawna Jedenastka"
 categories:
