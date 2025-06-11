@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+layout: default
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Hej!
+
+Jestem Patryk, pracuje jako ETL / BI Backend developer.
+Github ten, to miejsce gdzie bawie się swoimi pomysłami i tworzę proste projekty ;)
